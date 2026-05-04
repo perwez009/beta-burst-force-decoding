@@ -1,3 +1,6 @@
+# Szul et al., 2023
+#https://github.com/danclab/burst_detection/blob/main/python/burst_detection.py
+
 import copy
 import math
 import numpy as np
